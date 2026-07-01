@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "commerce-order-cancelation-skill",
+    "outputs":  {
+                    "result_val":  {
+                                       "type":  "string"
+                                   }
+                },
+    "description":  "Commerce transaction order cancellation and refund coordinator skill.",
+    "inputs":  {
+                   "input_val":  {
+                                     "type":  "string"
+                                 }
+               },
+    "author":  "alphaparkinc",
+    "prompt":  "Coordinate commerce-order-cancelation-skill operations using the input configurations."
+}
