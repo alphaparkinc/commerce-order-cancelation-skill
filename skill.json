@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "commerce-order-cancelation-skill",
+  "name": "genpark-commerce-order-cancelation-skill",
   "outputs": {
     "result_val": {
       "type": "string"
